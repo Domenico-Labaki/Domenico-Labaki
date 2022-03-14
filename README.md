@@ -1,3 +1,7 @@
+![Header](/images/header.png)
+
+---
+
 ### Hey there 👋 My name is Domenico, I'm a hobbysit programmer and game developer 🎮
 
 - Hungry learner exploring game design 📚
