@@ -3,7 +3,8 @@
 - Hungry learner exploring game design 📚
 - Currently working with the Godot Game Engine 🛠️
 
-### My Socials 👇
-<span> <img src="images/twitter.svg" alt="Twitter" width="30px"> </span>
-<span> <img src="images/hashnode.svg" alt="Hashnode" width="30px"> </span>
-<span> <img src="images/youtube.svg" alt="YouTube" width="30px"> </span>
+### My Links 👇
+<img align="left" src="images/twitter.svg" alt="Twitter" width="30px">
+<img align="left" src="images/hashnode.svg" alt="Hashnode" width="30px">
+<img align="left" src="images/youtube.svg" alt="YouTube" width="30px">
+<img align="left" src="images/itchdotio.svg" alt="Itch" width="30px">
