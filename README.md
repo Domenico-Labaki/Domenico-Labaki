@@ -5,7 +5,7 @@
 ### Hey there 👋 My name is Domenico, I'm a hobbysit programmer and game developer 🎮
 
 - Hungry learner exploring game design 📖
-- Currently working with the Godot Game Engine 🛠️
+- Currently creating games with the Godot Game Engine 🛠️
 
 ---
 
