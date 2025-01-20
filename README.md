@@ -25,11 +25,11 @@
 <img align="left" src="images/css3.svg" alt="CSS" width="25px">
 <img align="left" src="images/javascript.svg" alt="JavaScript" width="25px">
 <img align="left" src="images/godotengine.svg" alt="Godot Engine" width="25px">
-
+<img align="left" src="images/java.svg" alt="Java" width="25px">
 <img align="left" src="images/dart.svg" alt="Dart" width="25px">
-
+<img align="left" src="images/flutter.svg" alt="Flutter" width="25px">
 <img align="left" src="images/arduino.svg" alt="Arduino" width="25px">
-
+<img align="left" src="images/figma.svg" alt="Figma" width="25px">
 <br>
 
 ---
