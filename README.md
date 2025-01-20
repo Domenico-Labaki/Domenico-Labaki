@@ -6,6 +6,7 @@
 
 - Hungry learner exploring game design 📖
 - Currently creating games with the Godot Game Engine 🛠️
+- Actively discovering web and mobile app development as well! 📱
 
 ---
 
@@ -18,16 +19,21 @@
 
 ---
 
-### My Stack 📚
+### My Stack (Tools, Technologies & Languages) 📚
 <img align="left" src="images/python.svg" alt="Python" width="25px">
 <img align="left" src="images/html5.svg" alt="HTML" width="25px">
 <img align="left" src="images/css3.svg" alt="CSS" width="25px">
 <img align="left" src="images/javascript.svg" alt="JavaScript" width="25px">
 <img align="left" src="images/godotengine.svg" alt="Godot Engine" width="25px">
+<img align="left" src="images/java.svg" alt="Java" width="25px">
+<img align="left" src="images/flutter.svg" alt="Flutter" width="25px">
+<img align="left" src="images/dart.svg" alt="Dart" width="25px">
+<img align="left" src="images/arduino.svg" alt="Arduino" width="25px">
+<img align="left" src="images/figma.svg" alt="Figma" width="25px">
 <br>
 
 ---
 
-### Latest Blog Post ✍️
+### Latest Blog Posts ✍️
 - [How To Deal With Creative Block As A Developer](https://hashnode.com/post/how-to-deal-with-creative-block-as-a-developer-ckyyy6cqy030r8es1d2nf8ah0) 🧠
 - [The robot apocalypse is closer than we think (the necessary pessimistic view on the rise of AI)](https://medium.com/@domenicolabaki/the-robot-apocalypse-is-closer-than-we-think-f90cfd5e6c39) 🤖
