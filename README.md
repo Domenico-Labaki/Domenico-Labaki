@@ -1,39 +1,185 @@
-![Header](/images/Banner3.png)
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-### Hey there 👋 My name is Domenico, I'm a hobbysit programmer and game developer 🎮
+<p align="left">My name is Domenico Labaki and I'm a Software & Game Developer from Lebanon.</p>
 
-- Hungry learner exploring game design 📖
-- Currently creating games with the Godot Game Engine 🛠️
-- Actively discovering web and mobile app development as well! 📱
+###
 
----
+<h2 align="left">About me</h2>
 
-### My Links 👇
-<a href="https://twitter.com/Whisker_Games_"> <img align="left" src="images/twitter.svg" alt="Twitter" width="25px"> </a>
-<a href="https://medium.com/@domenicolabaki"> <img align="left" src="images/medium.svg" alt="Medium" width="25px"> </a>
-<a href="https://www.youtube.com/channel/UC0Kb2bI70iaPujpSFz8SOQw"> <img align="left" src="images/youtube.svg" alt="YouTube" width="25px"> </a>
-<a href="https://domenico-labaki.itch.io/"> <img align="left" src="images/itchdotio.svg" alt="Itch" width="25px"> </a>
-<br>
+###
 
----
+<p align="left">🎓 Computer Engineering undergraduate and self-taught developer<br>📱 Hands-on experience in **mobile app development**, **web development**, and **game development**  <br>🎮 Creator of **Whisker Games**, with **12+ published projects** and **thousands of players**  <br>🤖 Actively  building expertise in **Artificial Intelligence** through online courses and certifications  <br>🔐 Familiar with **cybersecurity** and **robotics** as complementary areas of interest  <br>🚀 Passionate about launching a career in **AI Engineering** and **Software Development**</p>
 
-### My Stack (Tools, Technologies & Languages) 📚
-<img align="left" src="images/python.svg" alt="Python" width="25px">
-<img align="left" src="images/html5.svg" alt="HTML" width="25px">
-<img align="left" src="images/css3.svg" alt="CSS" width="25px">
-<img align="left" src="images/javascript.svg" alt="JavaScript" width="25px">
-<img align="left" src="images/godotengine.svg" alt="Godot Engine" width="25px">
-<img align="left" src="images/java.svg" alt="Java" width="25px">
-<img align="left" src="images/dart.svg" alt="Dart" width="25px">
-<img align="left" src="images/flutter.svg" alt="Flutter" width="25px">
-<img align="left" src="images/arduino.svg" alt="Arduino" width="25px">
-<img align="left" src="images/figma.svg" alt="Figma" width="25px">
-<br>
+###
 
----
+<h2 align="left">My Stack</h2>
 
-### Latest Blog Posts ✍️
-- [How To Deal With Creative Block As A Developer](https://hashnode.com/post/how-to-deal-with-creative-block-as-a-developer-ckyyy6cqy030r8es1d2nf8ah0) 🧠
-- [The robot apocalypse is closer than we think (the necessary pessimistic view on the rise of AI)](https://medium.com/@domenicolabaki/the-robot-apocalypse-is-closer-than-we-think-f90cfd5e6c39) 🤖
+###
+
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
+
+###
+
+<h3 align="left">Web Technologies (Markup/Styling)</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks & Libraries:</h3>
+
+###
+
+<h4 align="left">Frontend</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
+
+###
+
+<h4 align="left">Backend</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
+
+###
+
+<h4 align="left">Desktop UI</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+</div>
+
+###
+
+<h4 align="left">Game Dev</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<h4 align="left">Data Science / ML</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
+
+<h3 align="left">Database</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h3 align="left">Other Dev Tools & Platforms</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h3 align="left">Documentation & Typesetting</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Links</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/domenico-labaki-70b392244/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Whisker_Games_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0Kb2bI70iaPujpSFz8SOQw/videos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://domenico-labaki.itch.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+  </a>
+  <a href="https://medium.com/@domenicolabaki" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
