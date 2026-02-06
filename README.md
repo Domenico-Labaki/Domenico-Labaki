@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Computer Engineering undergraduate and self-taught developer<br>📱 Hands-on experience in **mobile app development**, **web development**, and **game development**  <br>🎮 Creator of **Whisker Games**, with **12+ published projects** and **thousands of players**  <br>🤖 Actively  building expertise in **Artificial Intelligence** through online courses and certifications  <br>🔐 Familiar with **cybersecurity** and **robotics** as complementary areas of interest  <br>🚀 Passionate about launching a career in **AI Engineering** and **Software Development**</p>
+<p align="left">🎓 Computer Engineering undergraduate and self-taught developer<br>📱 Hands-on experience in mobile app development, web development, and game development  <br>🎮 Creator of Whisker Games, with 12+ published projects and thousands of players  <br>🤖 Actively  building expertise in Artificial Intelligence through online courses and certifications  <br>🔐 Familiar with cybersecurity and robotics as complementary areas of interest  <br>🚀 Passionate about launching a career in AI Engineering and Software Development</p>
 
 ###
 
