@@ -1,4 +1,4 @@
-<h3 align="left">Hey 👋 What's up?</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">About me</h4>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h4 align="left">My Stack</h4>
+<h2 align="left">My Stack</h2>
 
 ###
 
-<h5 align="left">Programming Languages</h5>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h5 align="left">Web Technologies (Markup/Styling)</h5>
+<h3 align="left">Web Technologies (Markup/Styling)</h3>
 
 ###
 
@@ -54,11 +54,11 @@
 
 ###
 
-<h5 align="left">Frameworks & Libraries:</h5>
+<h3 align="left">Frameworks & Libraries:</h3>
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h2 align="left">Frontend</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h2 align="left">Backend</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h4 align="left">Desktop UI</h4>
+<h2 align="left">Desktop UI</h2>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h4 align="left">Game Dev</h4>
+<h2 align="left">Game Dev</h2>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h4 align="left">Data Science / ML</h4>
+<h2 align="left">Data Science / ML</h2>
 
 ###
 
@@ -118,7 +118,7 @@
 
 ###
 
-<h5 align="left">Database</h5>
+<h3 align="left">Database</h3>
 
 ###
 
@@ -130,7 +130,7 @@
 
 ###
 
-<h5 align="left">Other Dev Tools & Platforms</h5>
+<h3 align="left">Other Dev Tools & Platforms</h3>
 
 ###
 
@@ -148,7 +148,7 @@
 
 ###
 
-<h5 align="left">Documentation & Typesetting</h5>
+<h3 align="left">Documentation & Typesetting</h3>
 
 ###
 
@@ -160,7 +160,7 @@
 
 ###
 
-<h4 align="left">Social Links</h4>
+<h2 align="left">Social Links</h2>
 
 ###
 
